@@ -51,11 +51,13 @@
   Typescript & Web Testing.
 </p>
 
-<p>👨‍💻 My Portfilio [Click here](https://sathyaprasad650.github.io/)</p>
+<p>
+  👨‍💻 My Portfilio -<a href="https://sathyaprasad650.github.io/">[Click here]</a>
+</p>
 
 <p>
-  👀 My Github Repositories [Click
-  here](https://github.com/sathyaPrasad650?tab=repositories)
+  👀 My Github Repositories -
+  <a href="https://github.com/sathyaPrasad650?tab=repositories">[Click here]</a>
 </p>
 <p>
   🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS
@@ -63,17 +65,19 @@
 </p>
 <p>📧 Email - sathyaPrasad650@gmail.com</p>
 <p>
-  📄 Know about my skills
-  [Resume](https://drive.google.com/file/d/1GMr42B4d4yQuNcPiOWbV9aryDwqVeIRC/view){"
-  "}
+  📄 Know about my skills [Resume] -
+  <a
+    href="https://drive.google.com/file/d/1GMr42B4d4yQuNcPiOWbV9aryDwqVeIRC/view"
+    >[Click here]</a
+  >
 </p>
 <p>
-  <a href="https://sathyaprasad650.github.io/">My Portfolio </a>
+  My Portfolio -
+  <a href="https://sathyaprasad650.github.io/">[Click here]</a>
 </p>
 <p>
-  ## 🌐 Socials [![LinkedIn](https://img
-  alt="".shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathya-prasad-0861b2252/){"
-  "}
+  My LinkedIn profile -
+  <a href="https://www.linkedin.com/in/sathya-prasad-s/">[Click here]</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -198,7 +202,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/lokesh-patidar">
+  <a href="https://github.com/sathyaPrasad650">
     <span>
       <img
         alt=""
@@ -223,17 +227,12 @@
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph#available-themes -->
 <div align="center">
-  <a href="https://github.com/lokesh-patidar/github-readme-activity-graph">
+  <a href="https://github.com/sathyaPrasad650/github-readme-activity-graph">
     <img
       style="border-radius: 50px"
       width="70%"
-      alt="lokesh-patidar Activity Graph"
+      alt="sathyaPrasad650 Activity Graph"
       src="https://activity-graph.herokuapp.com/graph?username=sathyaPrasad650&bg_color=0071E3&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&area_color=ECECEC"
     />
   </a>
 </div>
-
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
