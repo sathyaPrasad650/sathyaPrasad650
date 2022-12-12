@@ -72,10 +72,6 @@
   >
 </p>
 <p>
-  My Portfolio -
-  <a href="https://sathyaprasad650.github.io/">[Click here]</a>
-</p>
-<p>
   My LinkedIn profile -
   <a href="https://www.linkedin.com/in/sathya-prasad-s/">[Click here]</a>
 </p>
