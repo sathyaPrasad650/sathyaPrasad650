@@ -80,18 +80,19 @@
 
 <br />
 
-# 💻 Techincal Skills:
+# 💻 Tech Stack:
 <!--  -->
-![Vercel](https://img.shields.io/badge/vercel-%23323330.svg?style=for-the-badge&logo=vercel&logoColor=%red) 
-![vscode](https://img.shields.io/badge/vscode-%23323330.svg?style=for-the-badge&logo=visualstudiocode&logoColor=%black) 
-![NPM](https://img.shields.io/badge/npm-%23323330.svg?style=for-the-badge&logo=npm&logoColor=%blue) 
-![Gitbash](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%blue) 
+<!-- Coding -->
+![Vercel](https://img.shields.io/badge/vercel-%231f1e1f.svg?style=for-the-badge&logo=vercel&logoColor=%red) 
+![vscode](https://img.shields.io/badge/vscode-%230078ff.svg?style=for-the-badge&logo=visualstudiocode&logoColor=%black) 
+![NPM](https://img.shields.io/badge/npm-%23be3535.svg?style=for-the-badge&logo=npm&logoColor=%blue) 
+![Gitbash](https://img.shields.io/badge/git-%23f27e42.svg?style=for-the-badge&logo=git&logoColor=%blue) 
 ![Redux](https://img.shields.io/badge/redux-%23323330.svg?style=for-the-badge&logo=redux&logoColor=%blue) 
 ![Replit](https://img.shields.io/badge/replit-%23323330.svg?style=for-the-badge&logo=replit&logoColor=%blue) 
 ![ChakraUI](https://img.shields.io/badge/chakraui-%23323330.svg?style=for-the-badge&logo=chakraui&logoColor=%blue) 
 ![BootStrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%blue) 
 ![ReactJS](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%green) 
-![Linux](https://img.shields.io/badge/linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=%white) 
+![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=%white) 
 ![PostMan](https://img.shields.io/badge/postman-%23323330.svg?style=for-the-badge&logo=postman&logoColor=%green) 
 ![ShellScript](https://img.shields.io/badge/shellscript-%23323330.svg?style=for-the-badge&logo=shellscript&logoColor=%white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -104,19 +105,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-orange?style=for-the-badge&logo=MongoDB5&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-blue?style=for-the-badge&logo=NetworkingDB5&logoColor=white)
 ![Operating System](https://img.shields.io/badge/-operating%20system%20-lightgrey?style=for-the-badge&logo=OperatingSystemDB5&logoColor=white)
-<!--  -->
 
-# 📞 Customer Service Skills:
 <!--  -->
-![Communications](https://img.shields.io/badge/communications-%23323330.svg?style=for-the-badge&logo=communications&logoColor=%red) 
-![Patience](https://img.shields.io/badge/patience-%23323330.svg?style=for-the-badge&logo=patience&logoColor=%red)
-![Empathy](https://img.shields.io/badge/empathy-%23323330.svg?style=for-the-badge&logo=empathy&logoColor=%red)
-![Active Listening](https://img.shields.io/badge/activelistening-%23323330.svg?style=for-the-badge&logo=activelistening&logoColor=%red)
-<!--  -->
-# 🧮 Soft Skills:
-<!--  -->
-<!--  -->
-
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
