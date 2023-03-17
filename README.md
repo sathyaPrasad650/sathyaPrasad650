@@ -46,10 +46,10 @@
   Mysuru, Karnataka, India
 </p>
 
-<p>
+<!-- <p>
   ⚛️ Some technologies that I love to working with includes MERN stack,
   Typescript & Web Testing.
-</p>
+</p> -->
 
 <p>
   👨‍💻 My Portfilio -<a href="https://sathyaprasad650.github.io/" target="_blank">[Click here]</a>
@@ -60,8 +60,8 @@
   <a href="https://github.com/sathyaPrasad650?tab=repositories" target="_blank">[Click here]</a>
 </p>
 <p>
-  🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS
-  libraries like Chakra UI, Bootstrap & styled-components.
+  🚀 I have learned couple of skills in Tech like React, Redux, JavaScript, HTML, CSS
+  libraries like Chakra UI, Bootstrap & styled-components and skills in Customer service skills like communication, Troubleshooting, Patience, Actice listening. And in soft skills like Adaptability, Problem-solving, Attention to detail, Team work.
 </p>
 <p>📧 Email - sathyaPrasad650@gmail.com</p>
 <p>
