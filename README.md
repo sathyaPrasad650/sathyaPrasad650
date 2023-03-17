@@ -82,14 +82,26 @@
 
 # 💻 Tech Stack:
 <!--  -->
+<!-- Coding -->
+![Vercel](https://img.shields.io/badge/vercel-%23323330.svg?style=for-the-badge&logo=vercel&logoColor=%red) 
+![vscode](https://img.shields.io/badge/vscode-%23323330.svg?style=for-the-badge&logo=visualstudiocode&logoColor=%black) 
+![NPM](https://img.shields.io/badge/npm-%23323330.svg?style=for-the-badge&logo=npm&logoColor=%blue) 
+![Gitbash](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%blue) 
+![Redux](https://img.shields.io/badge/redux-%23323330.svg?style=for-the-badge&logo=redux&logoColor=%blue) 
+![Replit](https://img.shields.io/badge/replit-%23323330.svg?style=for-the-badge&logo=replit&logoColor=%blue) 
+![ChakraUI](https://img.shields.io/badge/chakraui-%23323330.svg?style=for-the-badge&logo=chakraui&logoColor=%blue) 
+![BootStrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%blue) 
+![ReactJS](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%green) 
+![Linux](https://img.shields.io/badge/linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=%white) 
+![PostMan](https://img.shields.io/badge/postman-%23323330.svg?style=for-the-badge&logo=postman&logoColor=%green) 
+![ShellScript](https://img.shields.io/badge/shellscript-%23323330.svg?style=for-the-badge&logo=shellscript&logoColor=%white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Linux](https://img.shields.io/badge/-Linux-green?style=for-the-badge&logo=Linux5&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-orange?style=for-the-badge&logo=MongoDB5&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-blue?style=for-the-badge&logo=NetworkingDB5&logoColor=white)
 ![Operating System](https://img.shields.io/badge/-operating%20system%20-lightgrey?style=for-the-badge&logo=OperatingSystemDB5&logoColor=white)
@@ -128,7 +140,7 @@
   </a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/sathyaPrasad650">
     <span>
       <img
@@ -138,7 +150,7 @@
       />
     </span>
   </a>
-</div>
+</div> -->
 
 <!-- <div align="center">
   <a href="https://github.com/sathyaPrasad650">
