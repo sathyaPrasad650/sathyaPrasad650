@@ -180,7 +180,7 @@
 </div> -->
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph#available-themes -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/sathyaPrasad650/github-readme-activity-graph">
     <img
       style="border-radius: 50px"
@@ -189,4 +189,4 @@
       src="https://activity-graph.herokuapp.com/graph?username=sathyaPrasad650&bg_color=0071E3&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&area_color=ECECEC"
     />
   </a>
-</div>
+</div> -->
