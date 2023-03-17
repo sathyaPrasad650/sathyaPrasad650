@@ -13,13 +13,13 @@
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Sathya Prasad S 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻; Interested in working with team;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"
+      src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Sathya Prasad S 👦🏽; Aspiring Technical Support Engineer 👨🏻‍💻; Interested in working with team;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"
       alt=""
     />
   </a>
 </div>
 
-<h3 align="center">An aspiring Full Stack MERN Developer</h3>
+<h3 align="center">An aspiring Technical Support Engineer</h3>
 
 <div align="center">
   <img
@@ -52,12 +52,12 @@
 </p>
 
 <p>
-  👨‍💻 My Portfilio -<a href="https://sathyaprasad650.github.io/">[Click here]</a>
+  👨‍💻 My Portfilio -<a href="https://sathyaprasad650.github.io/" target="_blank">[Click here]</a>
 </p>
 
 <p>
   👀 My Github Repositories -
-  <a href="https://github.com/sathyaPrasad650?tab=repositories">[Click here]</a>
+  <a href="https://github.com/sathyaPrasad650?tab=repositories" target="_blank">[Click here]</a>
 </p>
 <p>
   🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS
@@ -67,13 +67,13 @@
 <p>
   📄 Know about my skills [Resume] -
   <a
-    href="[https://drive.google.com/file/d/1GMr42B4d4yQuNcPiOWbV9aryDwqVeIRC/view](https://drive.google.com/file/d/1_PhvbFmLneMHiEdtmXMCMFPxbJ0yljJe/view?usp=sharing)"
+    href="[https://drive.google.com/file/d/1GMr42B4d4yQuNcPiOWbV9aryDwqVeIRC/view](https://drive.google.com/file/d/1_PhvbFmLneMHiEdtmXMCMFPxbJ0yljJe/view?usp=sharing)" target="_blank"
     >[Click here]</a
   >
 </p>
 <p>
   My LinkedIn profile -
-  <a href="https://www.linkedin.com/in/sathya-prasad-s/">[Click here]</a>
+  <a href="https://www.linkedin.com/in/sathya-prasad-s/" target="_blank">[Click here]</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
