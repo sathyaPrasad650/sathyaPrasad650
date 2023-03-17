@@ -77,6 +77,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <div align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
@@ -164,6 +165,21 @@
   </a>
 </div>
 <br />
+
+<!--  -->
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Linux](https://img.shields.io/badge/-Linux-green?style=for-the-badge&logo=Linux5&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-orange?style=for-the-badge&logo=MongoDB5&logoColor=white)
+![Networking](https://img.shields.io/badge/-Networking-blue?style=for-the-badge&logo=NetworkingDB5&logoColor=white)
+![Operating System](https://img.shields.io/badge/-operating%20system%20-lightgrey?style=for-the-badge&logo=OperatingSystemDB5&logoColor=white)
+
+<!--  -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
