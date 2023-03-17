@@ -106,18 +106,21 @@
 ![Networking](https://img.shields.io/badge/-Networking-blue?style=for-the-badge&logo=NetworkingDB5&logoColor=white)
 ![Operating System](https://img.shields.io/badge/-operating%20system%20-lightgrey?style=for-the-badge&logo=OperatingSystemDB5&logoColor=white)
 <!--  -->
-<br />
-# 💻 Customer Service Skills:
+
+# 📞 Customer Service Skills:
 <!--  -->
 ![Communications](https://img.shields.io/badge/communications-%231f1e1f.svg?style=for-the-badge&logo=communications&logoColor=%red) 
 ![Patience](https://img.shields.io/badge/patience-%231f1e1f.svg?style=for-the-badge&logo=patience&logoColor=%red) 
-![Communications](https://img.shields.io/badge/communications-%231f1e1f.svg?style=for-the-badge&logo=communications&logoColor=%red) 
-![Communications](https://img.shields.io/badge/communications-%231f1e1f.svg?style=for-the-badge&logo=communications&logoColor=%red) 
-<!--  -->
-<br />
-# 💻 Soft Skills:
+![Empathy](https://img.shields.io/badge/empathy-%231f1e1f.svg?style=for-the-badge&logo=empathy&logoColor=%red) 
+![Active Listening](https://img.shields.io/badge/activelistening-%231f1e1f.svg?style=for-the-badge&logo=activelistening&logoColor=%red) 
 <!--  -->
 
+# 🧮 Soft Skills:
+<!--  -->
+![Adaptability](https://img.shields.io/badge/adaptability-%231f1e1f.svg?style=for-the-badge&logo=adaptability&logoColor=%red) 
+![Problem Solving](https://img.shields.io/badge/problemsolving-%231f1e1f.svg?style=for-the-badge&logo=problemsolving&logoColor=%red) 
+![Attention to detail](https://img.shields.io/badge/attentiontodetail-%231f1e1f.svg?style=for-the-badge&logo=attentiontodetail&logoColor=%red) 
+![Team Work](https://img.shields.io/badge/teamwork-%231f1e1f.svg?style=for-the-badge&logo=teamwork&logoColor=%red) 
 <!--  -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
