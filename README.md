@@ -102,7 +102,7 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-orange?style=for-the-badge&logo=MongoDB5&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2395bc5f?style=for-the-badge&logo=MongoDB5&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-blue?style=for-the-badge&logo=NetworkingDB5&logoColor=white)
 ![Operating System](https://img.shields.io/badge/-operating%20system%20-lightgrey?style=for-the-badge&logo=OperatingSystemDB5&logoColor=white)
 <!--  -->
